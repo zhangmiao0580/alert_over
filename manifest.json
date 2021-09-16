@@ -1,7 +1,7 @@
 {
   "domain": "alert_over",
   "name": "alert_over",
-  "documentation": "https://study.163.com/forum/detail/1210624810.htm",
+  "documentation": "https://github.com/zhangmiao0580/alert_over",
   "requirements": ["requests"],
   "codeowners": [],
   "dependencies": [],
